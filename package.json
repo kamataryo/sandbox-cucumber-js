@@ -1,0 +1,15 @@
+{
+  "name": "sandbox-cucumber-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/sandbox-cucumber-js.git",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0"
+  }
+}
